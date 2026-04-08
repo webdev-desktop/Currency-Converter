@@ -41,8 +41,8 @@ Built to practice **JavaScript async handling**, **API integration**, and **resp
 
 ## 📸 Screenshots
 
-> ![Project Screenshot](./images/desktop-preview.png)
-> ![Project Screenshot](./images/mobile-preview.webp)
+> ![Project Screenshot](./Images/desktop-preview.webp)
+> ![Project Screenshot](./Images/mobile-preview.webp)
 
 ---
 
