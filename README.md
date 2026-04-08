@@ -1,7 +1,7 @@
 # 💱 Currency Converter – Real-Time Exchange App
 
 🚀 **Live Demo:**
-🔗 [Live Demo](https://webdevzone.in)
+🔗 [Live Demo](https://currency.webdevzone.in)
 
 🚀 A modern and responsive currency converter web app that provides real-time exchange rates using an API.
 Built to practice **JavaScript async handling**, **API integration**, and **responsive UI design**.
